@@ -19,7 +19,7 @@ Telegram
 
 * Forms will be distributed for participants to fill out (https://bit.ly/CodeApril).
 * Upon completing the form, participants will receive the WhatsApp link to join the platform.
-* Daily topics and learning resources (videos, web links, or documents) will be shared with participants via the WhatsApp group.
+* Daily topics and learning resources (videos, web links, or documents) will be shared with participants via the Telegram group.
 * Daily challenges/exercises will be assigned to participants, who are expected to share screenshots of their solutions on the group or social media platforms using the designated hashtags.
 * Additionally, participants can share their progress, ask questions, and engage with the community on social media platforms or WhatsApp
  
