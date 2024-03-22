@@ -21,4 +21,10 @@ WhatsApp
 * Upon completing the form, participants will receive the WhatsApp link to join the platform.
 * Daily topics and learning resources (videos, web links, or documents) will be shared with participants via the WhatsApp group.
 * Daily challenges/exercises will be assigned to participants, who are expected to share screenshots of their solutions on the group or social media platforms using the designated hashtags.
+* Additionally, participants can share their progress, ask questions, and engage with the community on social media platforms or whatsapp
  
+## Social Media hashtags
+#codeapril, #python4dataanalysis, #30dayschallenge
+
+
+## Meet the Team
