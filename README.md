@@ -2,6 +2,8 @@
 
 Code April is a 30-day coding challenge to promote coding skills, foster learning, and encourage participation in coding-related activities throughout April. It allows individuals to enhance their coding skills, gain confidence, and celebrate achievements as they progress through the challenge over 30 days.
 
+![alt text](Code_April_flyer2.png)
+
 ## What Does It Entail?
 
 * Participants will receive daily prompts, resources, and support to guide them through the coding journey.
