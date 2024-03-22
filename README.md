@@ -13,7 +13,7 @@ Code April is a 30-day coding challenge to promote coding skills, foster learnin
 *Please note that CODE APRIL is not a training platform; no formal training sessions will be organized.* 
 
 ## Platform
-WhatsApp
+Telegram
 
 ## How will the challenge Run?
 
