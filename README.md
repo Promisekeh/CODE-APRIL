@@ -2,7 +2,7 @@
 
 Code April is a 30-day coding challenge to promote coding skills, foster learning, and encourage participation in coding-related activities throughout April. It allows individuals to enhance their coding skills, gain confidence, and celebrate achievements as they progress through the challenge over 30 days.
 
-![alt text](Code_April_flyer2.png)
+![alt text](main_flyer_small.png)
 
 ## What Does It Entail?
 
@@ -24,7 +24,7 @@ Telegram
 * Additionally, participants can share their progress, ask questions, and engage with the community on social media platforms or WhatsApp
  
 ## Social Media hashtags
-#codeapril, #python4dataanalysis, #30dayschallenge
+#CODEApril, #CodingChallenge, #30DayChallenge
 
 
 ## Meet the Team
