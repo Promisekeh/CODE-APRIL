@@ -8,9 +8,10 @@ Code April is a 30-day coding challenge to promote coding skills, foster learnin
 * Daily coding exercises and programming tasks will be provided.
 * Engaging conversations and discussions will be facilitated on the platform.
 
-Please note that CODE APRIL is not a training platform; no formal training sessions will be organized. 
+*Please note that CODE APRIL is not a training platform; no formal training sessions will be organized.* 
 
-Platform: WhatsApp
+## Platform
+WhatsApp
 
 ## How The Program Will Run?
 
